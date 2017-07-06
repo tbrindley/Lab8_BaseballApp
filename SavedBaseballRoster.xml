@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BaseballTeam>
+    <Player id="1">
+        <playerName>Travis</playerName>
+        <AB0>1</AB0>
+        <AB1>2</AB1>
+        <AB2>0</AB2>
+        <playerName>Bill</playerName>
+        <AB0>2</AB0>
+        <AB1>2</AB1>
+        <AB2>0</AB2>
+    </Player>
+</BaseballTeam>
